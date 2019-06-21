@@ -15,7 +15,7 @@ Dev practice
 - либо запускайте в проводнике с правами администратора PowerShell или cmd [https://os-helper.ru/windows-10/kak-otkryt-komandnuyu-stroku-ot-imeni-administratora.html]  
 
 #### IDE
-- Пока не ставим!!!! (C#) для работы с C# рекомендую скачать MS VisualStudio (веси дохрена) [https://visualstudio.microsoft.com/ru/vs/community/?rr=https%3A%2F%2Fwww.google.com%2F]  
+- Пока не ставим!!!! (C#) для работы с C# рекомендую скачать MS VisualStudio (весит дохрена) [https://visualstudio.microsoft.com/ru/vs/community/?rr=https%3A%2F%2Fwww.google.com%2F]  
 - (C#) если пока лень ставить MS VS CE, рекомендую делать в онлайне [https://dotnetfiddle.net/] или [https://rextester.com/]  
 - Нужна быстрая и лёгкая IDE для работы с Python, PHP и JS. Возьмём - MS Visual Studio Code или Atom или Sublime Text [https://code.visualstudio.com/], [https://ide.atom.io/], [https://www.sublimetext.com/3] Я предпочитаю MS VS Code.  
 
