@@ -65,7 +65,7 @@ An Informal Introduction to Python [https://docs.python.org/3/tutorial/introduct
 Python Tutor [http://pythontutor.ru/lessons/inout_and_arithmetic_operations/]  
 
 После установки Python - нужно прописать переменную окружения PATH к интерпретатору, например, `C:\Program Files\Pyhon3.6\bin\`.
-Теперь можно запускать ваш файл (допустим, `math.py`) на выполнение из командной строки: `python math.py`
+Теперь можно запускать ваш файл на выполнение (допустим, `math.py`) на выполнение из командной строки: `python math.py`
 
 
 
