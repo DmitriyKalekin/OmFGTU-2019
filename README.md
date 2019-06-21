@@ -3,7 +3,7 @@ Dev practice
 
 ### Инструментарий
 #### Git  
-- регаемся на [github.com]  
+- регаемся на [https://github.com/]  
 - ставим себе на машину git [https://git-scm.com/downloads] или [https://gitforwindows.org/]  
 (инструкцию по установке можно прочитать тут: [https://www.atlassian.com/git/tutorials/install-git#windows])  
 - запоминаем свой пароль менеджером паролей (винды или git)   
