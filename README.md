@@ -67,5 +67,9 @@ Python Tutor [http://pythontutor.ru/lessons/inout_and_arithmetic_operations/]
 После установки Python - нужно прописать переменную окружения PATH к интерпретатору, например, `C:\Program Files\Pyhon3.6\bin\`.
 Теперь можно запускать ваш файл на выполнение (допустим, `math.py`) на выполнение из командной строки: `python math.py`
 
-
+Предлагается поиграться с репозиторием git  
+— клонировать себе (`git clone ...`)  
+— сохранить изменения  (`git commit -am 'я сохранил'`)  
+— скопировать себе изменения из интернета (`git pull origin master`)  
+— залить свои локальные  изменения в интернет (в удалённый репозиторий `git push origin master`)   
 
