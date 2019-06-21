@@ -9,7 +9,7 @@ Dev practice
 - запоминаем свой пароль менеджером паролей (винды или git)   
 - обязательно прописываем **переменные окружения** - нас интересует **PATH** для вашего установленного git.exe [http://qaru.site/questions/220706/how-to-add-a-folder-to-path-environment-variable-in-windows-10-with-screenshots]
 
-#### консоль  
+#### Консоль  
 - Cmder (Win) [https://cmder.net/]
 - Far Manager [https://www.farmanager.com/download.php?l=ru]  
 - либо запускайте в проводнике с правами администратора PowerShell или cmd [https://os-helper.ru/windows-10/kak-otkryt-komandnuyu-stroku-ot-imeni-administratora.html]  
