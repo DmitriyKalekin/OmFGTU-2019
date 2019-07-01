@@ -85,9 +85,9 @@ Python Tutor [http://pythontutor.ru/lessons/inout_and_arithmetic_operations/]
 — сохранить изменения  (`git commit -am 'я сохранил'`)  
 — скопировать себе изменения из интернета (`git pull origin master`)  
 — залить свои локальные  изменения в интернет (в удалённый репозиторий `git push origin master`)  
-- сделать `stash save` какого-нибудь файла (локальный конфиг)  
-- создать ветку под задачу `git checkout -b novaya_vetka` и внести туда изменения.
-- переключиться на ветку мастер `git checkout master`  
-- слить изменения из новой ветки в мастер `git merge novaya_vetka`  
+— сделать `stash save` какого-нибудь файла (локальный конфиг)  
+— создать ветку под задачу `git checkout -b novaya_vetka` и внести туда изменения.
+— переключиться на ветку мастер `git checkout master`  
+— слить изменения из новой ветки в мастер `git merge novaya_vetka`  
 
 
