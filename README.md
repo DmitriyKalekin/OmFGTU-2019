@@ -9,15 +9,29 @@ Dev practice
 - запоминаем свой пароль менеджером паролей (винды или git)   
 - обязательно прописываем **переменные окружения** - нас интересует **PATH** для вашего установленного git.exe [http://qaru.site/questions/220706/how-to-add-a-folder-to-path-environment-variable-in-windows-10-with-screenshots]
 
+
+#### BitBucket (Факультатив)  
+- то же самое, что Git - только нужно иметь представление, как с ним работать  
+- настройте SSH-ключи  
+- регаемся на [https://bitbucket.org]  
+
 #### Консоль  
 - Cmder (Win) [https://cmder.net/]
 - Far Manager [https://www.farmanager.com/download.php?l=ru]  
 - либо запускайте в проводнике с правами администратора PowerShell или cmd [https://os-helper.ru/windows-10/kak-otkryt-komandnuyu-stroku-ot-imeni-administratora.html]  
 
 #### IDE
-- Пока не ставим!!!! (C#) для работы с C# рекомендую скачать MS VisualStudio (весит дохрена) [https://visualstudio.microsoft.com/ru/vs/community/?rr=https%3A%2F%2Fwww.google.com%2F]  
+- MS VisualStudio CE (много весит, не ставим пока) [https://visualstudio.microsoft.com/ru/vs/community/?rr=https%3A%2F%2Fwww.google.com%2F]  
 - (C#) если пока лень ставить MS VS CE, рекомендую делать в онлайне [https://dotnetfiddle.net/] или [https://rextester.com/]  
-- Нужна быстрая и лёгкая IDE для работы с Python, PHP и JS. Возьмём - MS Visual Studio Code или Atom или Sublime Text [https://code.visualstudio.com/], [https://ide.atom.io/], [https://www.sublimetext.com/3] Я предпочитаю MS VS Code.  
+- (Обязательно!) Нужна быстрая и лёгкая IDE для работы с Python, PHP и JS.   
+Возьмём:   
+* MS Visual Studio Code [https://code.visualstudio.com/] (Я предпочитаю MS VS Code)  
+* или Atom [https://ide.atom.io/]  
+* или Sublime Text [https://www.sublimetext.com/3]    
+
+#### Trello 
+- регистрируемся [https://trello.com/]  
+- здесь мы будем отмечать прогресс по работам  
 
 
 
@@ -33,7 +47,6 @@ Dev practice
 
 
 ### Занятие 01: GIT и знакомство с Python
-Konstantin Malanchev edited this page on 11 Feb 2018 · 1 revision
 План занятия
 ```
     Создаём репозиторий на github, создаём у себя локальную копию, создаём тестовый файл и отправляем его на github.
@@ -71,5 +84,10 @@ Python Tutor [http://pythontutor.ru/lessons/inout_and_arithmetic_operations/]
 — клонировать себе (`git clone ...`)  
 — сохранить изменения  (`git commit -am 'я сохранил'`)  
 — скопировать себе изменения из интернета (`git pull origin master`)  
-— залить свои локальные  изменения в интернет (в удалённый репозиторий `git push origin master`)   
+— залить свои локальные  изменения в интернет (в удалённый репозиторий `git push origin master`)  
+- сделать `stash save` какого-нибудь файла (локальный конфиг)  
+- создать ветку под задачу `git checkout -b novaya_vetka` и внести туда изменения.
+- переключиться на ветку мастер `git checkout master`  
+- слить изменения из новой ветки в мастер `git merge novaya_vetka`  
+
 
