@@ -2,7 +2,7 @@
 Dev practice
 
 ## Материалы для занятий
-В [wiki](https://github.com/KalekinDmitry/OmFGTU-2019/wiki)  
+В [wiki](https://github.com/KalekinDmitry/OmFGTU-2019/wiki) собраны все материалы.
 
 
 
