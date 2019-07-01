@@ -41,6 +41,10 @@ NDA
 Трелло  
 Колаб  
 
+MySQL / Mongo  
+Neo4j / OrientDB  
+
+
 
 
  
